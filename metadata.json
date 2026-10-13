@@ -1,0 +1,6 @@
+{
+  "name": "梯度磁場電子運動模擬器 (Magnetic Gradient Orbit Simulator)",
+  "description": "二維梯度磁場 B(x) = B0 x / L 下的二維電子氣體運動方程式 (EOM) 數值模擬器，包含蛇形軌道 (Snake States)、有效位能面 V_eff(x)、動量守恆及相空間分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
